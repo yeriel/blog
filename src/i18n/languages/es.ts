@@ -7,7 +7,7 @@ export const es: Translation = {
   [Key.archive]: 'Archivo',
   [Key.search]: 'Buscar',
 
-  [Key.tags]: 'Etiquetas',
+  [Key.tags]: 'Tags',
   [Key.categories]: 'Categorías',
   [Key.recentPosts]: 'Publicaciones recientes',
 
@@ -15,7 +15,7 @@ export const es: Translation = {
 
   [Key.untitled]: 'Sin título',
   [Key.uncategorized]: 'Sin categoría',
-  [Key.noTags]: 'Sin etiquetas',
+  [Key.noTags]: 'Sin tags',
 
   [Key.wordCount]: 'palabra',
   [Key.wordsCount]: 'palabras',

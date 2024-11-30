@@ -1,9 +1,5 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+<h1 style="text-align: center;">#~ whoami</h1>
 
-::github{repo="saicaca/fuwari"}
+Soy un Ingeniero en Telecomunicaciones Civiles especializado en Ciencia de Datos y Aprendizaje Automático, con experiencia en PyTorch y OpenCV. He trabajado en las industrias de minería y petróleo y gas, desarrollando modelos de Aprendizaje Automático e implementando sistemas de BI para el sector financiero, principalmente enfocados en la prevención de fraudes.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Mi lenguaje de programación preferido es Python 🐍, y me apasiona el diseño 3D, el ciclismo 🚴‍♂️ y la cartomagia. Me encanta encontrar formas de combinar estas diferentes áreas de conocimiento para crear proyectos innovadores que exploren nuevas posibilidades y enfoques, aprovechando al máximo cada disciplina.
