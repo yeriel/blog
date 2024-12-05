@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fika',
+  title: 'Fikay',
   subtitle: 'Home',
   lang: 'es',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
