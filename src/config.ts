@@ -51,14 +51,14 @@ export const profileConfig: ProfileConfig = {
   bio: 'ML engineer & Data Scientist Python | Blender',
   links: [
     {
+      name: 'Notes',
+      icon: 'fa6-brands:readme',        
+      url: 'https://yeriel.github.io/',
+    },
+    {
       name: 'LinkedIn',
       icon: 'fa6-brands:linkedin-in',
       url: 'https://www.linkedin.com/in/yeriel-paz/',
-    },
-    {
-      name: 'Kaggle',
-      icon: 'fa6-brands:kaggle',        
-      url: 'https://www.kaggle.com/yerielpaz',
     },
     {
       name: 'GitHub',
