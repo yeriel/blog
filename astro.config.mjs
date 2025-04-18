@@ -15,6 +15,7 @@ import remarkMath from "remark-math";
 import remarkSectionize from "remark-sectionize";
 import { AdmonitionComponent } from "./src/plugins/rehype-component-admonition.mjs";
 import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.mjs";
+import { GithubFolderComponent } from "./src/plugins/rehype-component-github-card-folder.mjs";
 import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
 import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
@@ -80,6 +81,7 @@ export default defineConfig({
         {
           components: {
             github: GithubCardComponent,
+            github_folder: GithubFolderComponent,
             note: (x, y) => AdmonitionComponent(x, y, "note"),
             tip: (x, y) => AdmonitionComponent(x, y, "tip"),
             important: (x, y) => AdmonitionComponent(x, y, "important"),
