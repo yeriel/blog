@@ -401,7 +401,7 @@ $$Tr(A) = Tr(A^T) $$
 
 $$Tr(ABC)=Tr(CAB)=Tr(BCA)$$
 
-## Determinante
+# Determinante
 
 El determinante de una matriz cuadrada, denotado $det(A)$, es una función que asigna matrices a escalares reales. El determinante es igual al producto de todos los valores propios de la matriz. 
 
