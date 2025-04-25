@@ -1,6 +1,8 @@
 // src/content.config.ts
 import { defineCollection, z } from 'astro:content';
 
+const categories = ['Posts', 'Apuntes', 'Proyectos', ] as const;
+
 const postsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -8,8 +10,8 @@ const postsCollection = defineCollection({
     description: z.string().optional(),
     image: z.string().optional(),  
     tags: z.array(z.string()).optional(),
-    category: z.string().optional(), 
-    draft: z.boolean().default(false)
+    category: z.enum(categories).optional(), 
+    draft: z.boolean().default(true)
   }),
 });
 
