@@ -1,15 +1,12 @@
 ---
 title: Algebra Lineal
-published: 2025-04-25
+published: 2025-04-24
 description: "Fundamentos del algebra lineal"
-image: "./cover.jpeg"
+image: "./lineal_algebra.webp"
 tags: ["Matemáticas"]
 category: Apuntes
 draft: false
 ---
-
-> Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
-
 
 El álgebra lineal es una rama de las matemáticas que se utiliza ampliamente en la ciencia y la ingeniería. A diferencia de otras ramas de las matemáticas que se centran en números discretos, el álgebra lineal trabaja con conceptos continuos. Esto puede ser un desafío para muchos, ya que no están familiarizados con estos conceptos.
 
