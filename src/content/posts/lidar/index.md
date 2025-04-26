@@ -5,7 +5,7 @@ description: "Prueba de concepto de aislar cableado eléctrico en una nube de pu
 image: "./lidar_1.webp"
 tags: ["Lidar", "Python"]
 category: Posts
-draft: true
+draft: false
 ---
 
 
